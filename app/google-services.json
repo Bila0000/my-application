@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679195522018",
+    "firebase_url": "https://chatapp2-97178.firebaseio.com",
+    "project_id": "chatapp2-97178",
+    "storage_bucket": "chatapp2-97178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679195522018:android:2e0289256999364e",
+        "android_client_info": {
+          "package_name": "com.salsabil.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679195522018-moegtqqcgd08hfqk7no3lik7qf5ifue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salsabil.chatapp",
+            "certificate_hash": "7ccaf211eb04562e109c1948394c6db3b8d3b5f5"
+          }
+        },
+        {
+          "client_id": "679195522018-mr08cimp8l3s34o96id0uul8500chfp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjl5ZsYgR_s1RC1RVBV33Y-73aB_2owM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679195522018-mr08cimp8l3s34o96id0uul8500chfp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
